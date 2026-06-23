@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "fonts/Cinzel-Black.ttf",
+      "sha1": "38ac576cc25bdb4aeba45ec9f79e6cfc9d5cb754"
+    },
+    {
+      "path": "fonts/Cinzel-Bold.ttf",
+      "sha1": "b88b6bb7c15bc9c8b1a049f40b6c716a5d3c0672"
+    },
+    {
+      "path": "fonts/Cinzel-ExtraBold.ttf",
+      "sha1": "dec4bbb4c34f8c308cbc6863938169e55dd2ec5f"
+    },
+    {
+      "path": "fonts/Cinzel-Medium.ttf",
+      "sha1": "461f559b5df84aa8cabca9fbea702275c00cdce8"
+    },
+    {
+      "path": "fonts/Cinzel-Regular.ttf",
+      "sha1": "e69b593cf3181656bb3634477f0ceb0089846645"
+    },
+    {
+      "path": "fonts/Cinzel-SemiBold.ttf",
+      "sha1": "4b4d4822a26728e680a5f0ea9a8957ca2d5c84d2"
+    }
+  ]
+}
